@@ -1,4 +1,3 @@
-# Tetris
 # Игра Tetris - [Demo](https://subtle-moxie-862fb3.netlify.app/)
 ```
 Для управления используйте стрелки на клавиатуре!
